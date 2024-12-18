@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#4F977E",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的发布",
+  "usingComponents": {
+    "xia-editor": "/components/xia-editor/xia-editor"
+  }
+}

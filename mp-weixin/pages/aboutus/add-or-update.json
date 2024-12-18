@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#4F977E",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "xia-editor": "/components/xia-editor/xia-editor",
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

@@ -1,0 +1,9 @@
+﻿SSM + 小程序启动教程：https://www.bilibili.com/video/BV1BfB2YYEnS
+
+SpringBoot+小程序启动教程：https://www.bilibili.com/video/BV1oiBpYcEBp
+
+安装包下载：https://pan.baidu.com/s/1s51E22bl8JoFoc1D-Qja1Q?pwd=ajhb
+
+更多毕设源码领取，讲解视频、二次开发教程，欢迎前来学习！
+
+学习交流Q群：884667646，入群备注Github，欢迎源码、部署、定制需求。
